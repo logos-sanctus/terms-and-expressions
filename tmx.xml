@@ -1,61 +1,1354 @@
 <tmx xmlns="http://www.lisa.org/tmx14" version="1.4">
-    <header creationtool="eclipse" creationtoolversion="1.5" segtype="block" o-tmf="tmx" adminlang="ro" srclang="ro" datatype="xml"/>
-    <body>
-        <tu tuid="language-selecting-select1">
-            <tuv xml:lang="ro">
-                <seg>Select language: </seg>
-            </tuv>
-            <tuv xml:lang="de">
-                <seg>Wählen Sie die Sprache: </seg>
-            </tuv>
-            <tuv xml:lang="fr">
-                <seg>Choisir la langue: </seg>
-            </tuv>
-        </tu>
-        <tu tuid="message-part-1">
-            <tuv xml:lang="ro">
-                <seg> of </seg>
-            </tuv>
-            <tuv xml:lang="de">
-                <seg> vom </seg>
-            </tuv>
-            <tuv xml:lang="fr">
-                <seg> de </seg>
-            </tuv>
-        </tu>
-        <tu tuid="message-part-2">
-            <tuv xml:lang="ro">
-                <seg> record(s) selected</seg>
-            </tuv>
-            <tuv xml:lang="de">
-                <seg> Eintragung(en) ausgewählt</seg>
-            </tuv>
-            <tuv xml:lang="fr">
-                <seg> enregistrement(s) sélectionné</seg>
-            </tuv>
-        </tu>
-        <tu tuid="selected-options-message">
-            <tuv xml:lang="ro">
-                <seg>Identifiers of the selected options: </seg>
-            </tuv>
-            <tuv xml:lang="de">
-                <seg>Kennungen der ausgewählten Optionen: </seg>
-            </tuv>
-            <tuv xml:lang="fr">
-                <seg>Identifiants des options sélectionnées: </seg>
-            </tuv>
-        </tu>
+	<header creationtool="eclipse" creationtoolversion="1.5"
+		segtype="block" o-tmf="tmx" adminlang="ro" srclang="ro" datatype="xml" />
+	<body>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg>Revelarea în universul lăuntric al ființei umane a Atributului
+					Dumnezeiesc al Nemuririi
+				</seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg>Revelarea în universul lăuntric al ființei umane a Atributului
+					Dumnezeiesc al Bunăvoinței Dumnezeiești
+				</seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg>Revelarea în universul lăuntric al ființei umane a Atributului
+					Dumnezeiesc al Genialității Dumnezeiești
+				</seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg>Revelarea în universul lăuntric al ființei umane a Atributului
+					Dumnezeiesc al Poeticului Dumnezeiesc
+				</seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg>Revelarea în universul lăuntric al ființei umane a Atributului
+					Dumnezeiesc al Umilinței Dumnezeiești
+				</seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
 
-        <tu tuid="label-for-action-selecting-select1">
-            <tuv xml:lang="ro">
-                <seg>Actions: </seg>
-            </tuv>
-            <tuv xml:lang="de">
-                <seg>Aktionen: </seg>
-            </tuv>
-            <tuv xml:lang="fr">
-                <seg>Actions: </seg>
-            </tuv>
-        </tu>        
-    </body>
+
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg>Revelarea în universul lăuntric al ființei umane a Atributului
+					Dumnezeiesc al Măreției Dumnezeiești
+				</seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg>Revelarea în universul lăuntric al ființei umane a Atributului
+					Dumnezeiesc al Armoniei Dumnezeiești
+				</seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg>Revelarea în universul lăuntric al ființei umane a Atributului
+					Dumnezeiesc al Sincerității Dumnezeiești
+				</seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg>Revelarea în universul lăuntric al ființei umane a Atributului
+					Dumnezeiesc al Entuziasmului Dumnezeiesc
+				</seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg>Revelarea în universul lăuntric al ființei umane a Atributului
+					Dumnezeiesc al Optimismului Dumnezeiesc
+				</seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg>Revelarea în universul lăuntric al ființei umane a Atributului
+					Dumnezeiesc al Bunătății Dumnezeiești
+				</seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg>Revelarea în universul lăuntric al ființei umane a Atributului
+					Dumnezeiesc al Clipei Dumnezeiești
+				</seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg>Revelarea în universul lăuntric al ființei umane a Atributului
+					Dumnezeiesc al Plăcerii Dumnezeiești
+				</seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg>Revelarea în universul lăuntric al ființei umane a Atributului
+					Dumnezeiesc al Legământului Dumnezeiesc
+				</seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg>Revelarea în universul lăuntric al ființei umane a Atributului
+					Dumnezeiesc al Regenerării Dumnezeiești
+				</seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg>Revelarea în universul lăuntric al ființei umane a Atributului
+					Dumnezeiesc al Victoriei Dumnezeiești
+				</seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg>Revelarea în universul lăuntric al ființei umane a Atributului
+					Dumnezeiesc al Zâmbetului enigmatic Dumnezeiesc
+				</seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg>Revelarea în universul lăuntric al ființei umane a Atributului
+					Dumnezeiesc al Unității Dumnezeiești
+				</seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg>Revelarea în universul lăuntric al ființei umane a Atributului
+					Dumnezeiesc al Umilinței Dumnezeiești
+				</seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg>Revelarea în universul lăuntric al ființei umane a Atributului
+					Dumnezeiesc al Speranței Dumnezeiești
+				</seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg>Revelarea în universul lăuntric al ființei umane a Atributului
+					Dumnezeiesc al Simplității Dumnezeiești
+				</seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg>Revelarea în universul lăuntric al ființei umane a Atributului
+					Dumnezeiesc al Altruismului Dumnezeiesc
+				</seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg>Revelarea în universul lăuntric al ființei umane a Atributului
+					Dumnezeiesc al Mulțumirii Dumnezeiești
+				</seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg>Revelarea în universul lăuntric al ființei umane a Atributului
+					Dumnezeiesc al Măreției Dumnezeiești
+				</seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg>Revelarea în universul lăuntric al ființei umane a Atributului
+					Dumnezeiesc al Legământului Dumnezeiesc
+				</seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg>Revelarea în universul lăuntric al ființei umane a Atributului
+					Dumnezeiesc al Înțelepciunii Dumnezeiești
+				</seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg>Revelarea în universul lăuntric al ființei umane a Atributului
+					Dumnezeiesc al Generozității Dumnezeiești
+				</seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg>Revelarea în universul lăuntric al ființei umane a Atributului
+					Dumnezeiesc al Frumuseții Dumnezeiești
+				</seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg>Revelarea în universul lăuntric al ființei umane a Atributului
+					Dumnezeiesc al Sublimării Dumnezeiești
+				</seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg>Revelarea în universul lăuntric al ființei umane a Atributului
+					Dumnezeiesc al Erosului Pur Dumnezeiesc
+				</seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg>Revelarea în universul lăuntric al ființei umane a Atributului
+					Dumnezeiesc al Binelui Dumnezeiesc
+				</seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg>Revelarea în universul lăuntric al ființei umane a Atributului
+					Dumnezeiesc al Încrederii Absolute în Sine Însuși ce Îl
+					caracterizează în veșnicie pe Dumnezeu Tatăl
+				</seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg>Revelarea în universul lăuntric al ființei umane a Atributului
+					Dumnezeiesc al Bunăstării Dumnezeiești</seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg>Revelarea în universul lăuntric al ființei umane a Atributului
+					Dumnezeiesc al Onestități Dumnezeiești</seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg>Revelarea în universul lăuntric al ființei umane a Atributului
+					Dumnezeiesc al Intuiției Dumnezeiești</seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg>Revelarea în universul lăuntric al ființei umane a Atributului
+					Dumnezeiesc al Voinței Dumnezeiești</seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg>Revelarea în universul lăuntric al ființei umane a Atributului
+					Dumnezeiesc al Detașării Dumnezeiești</seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg>Revelarea în universul lăuntric al ființei umane a Atributului
+					Dumnezeiesc al Esenței Dumnezeiești</seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg>Revelarea în universul lăuntric al ființei umane a Atributului
+					Dumnezeiesc al Iertării Dumnezeiești</seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg>Revelarea în universul lăuntric al ființei umane a Atributului
+					Dumnezeiesc al Iubirii Dumnezeiești</seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg>Revelarea în universul lăuntric al ființei umane a Atributului
+					Dumnezeiesc al Transfigurării Dumnezeiești</seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg>Revelarea în universul lăuntric al ființei umane a Atributului
+					Dumnezeiesc al Imobilității (Încremenirii) Dumnezeiești</seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg>Revelarea în universul lăuntric al ființei umane a Atributului
+					Dumnezeiesc al Mulțumirii Dumnezeiești</seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg>Revelarea în universul lăuntric al ființei umane a Atributului
+					Dumnezeiesc al Ascezei Dumnezeiești</seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg>Revelarea în universul lăuntric al ființei umane a Atributului
+					Dumnezeiesc al Omniscienței Dumnezeiești</seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg>Revelarea în universul lăuntric al ființei umane a Atributului
+					Dumnezeiesc al Perfecțiunii Dumnezeiești</seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg>Revelarea în universul lăuntric al ființei umane a Atributului
+					Dumnezeiesc al Sănătății Dumnezeiești</seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg>Revelarea în universul lăuntric al ființei umane a Atributului
+					Dumnezeiesc al Perseverenței Dumnezeiești</seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg>Revelarea în universul lăuntric al ființei umane a Atributului
+					Dumnezeiesc al Abnegației Dumnezeiești</seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg>Revelarea în universul lăuntric al ființei umane a Atributului
+					Dumnezeiesc al Purității Dumnezeieşti</seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg>Revelarea în universul lăuntric al ființei umane a Atributului
+					Dumnezeiesc al Răbdării Dumnezeieşti</seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg>Revelarea în universul lăuntric al ființei umane a Atributului
+					Dumnezeiesc al Discernământului Dumnezeiesc</seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg>Revelarea în universul lăuntric al ființei umane a Atributului
+					Dumnezeiesc al Sintezei Divine</seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg>Revelarea în universul lăuntric al ființei umane a Atributului
+					Dumnezeiesc al Simultaneității Divine</seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg>Revelarea în universul lăuntric al ființei umane a Atributului
+					Dumnezeiesc al Intenției Divine</seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg>Revelarea în universul lăuntric al ființei umane a Atributului
+					Dumnezeiesc al Instantaneităţii Dumnezeieşti</seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg>Revelarea în universul lăuntric al ființei umane a Atributului
+					Dumnezeiesc al Imobilității Divine</seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg>Revelarea în universul lăuntric al ființei umane a Atributului
+					Dumnezeiesc al Hrănirii Divine Reciproce</seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg>Revelarea în universul lăuntric al ființei umane a Atributului
+					Dumnezeiesc al Libertății Divine</seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu tuid="">
+			<tuv xml:lang="ro">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="en">
+				<seg></seg>
+			</tuv>
+			<tuv xml:lang="fr">
+				<seg></seg>
+			</tuv>
+		</tu>
+	</body>
 </tmx>
